@@ -1,0 +1,40 @@
+/*CSS Reset*/
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Open Sans', sans-serif;
+}
+
+/*Google Fonts*/
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+
+.front-bg {
+	
+	background-image: url(images/angela1.png);
+	background-repeat: no-repeat;
+	
+	background-position: right;
+	padding: 5px;
+	background-attachment: scroll;
+	min-height: 80vh;					
+	color: white;
+}
+
+.bg1 {
+	background: url("https://clipartmag.com/image/cute-dog-drawing-4.jpg");
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	min-height: 580px;
+}
+
+.bg2 {
+	background: url("https://clipartix.com/wp-content/uploads/2016/05/Images-for-laptop-clipart-image.jpg");
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	min-height: 580px;
+}

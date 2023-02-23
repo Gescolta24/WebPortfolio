@@ -40,3 +40,11 @@ body {
 }
 
 
+.zuitt1 {
+	background: url("images/zuitt1.jpg");
+	background-size: 80%;
+	
+	background-position: center center;
+	background-repeat: no-repeat;
+	
+}
